@@ -50,5 +50,17 @@ Para uma utilização adequada do aplicativo, considere as seguintes observaçõ
 
 ## Capturas de Tela
 
-Inserir aqui capturas de tela do aplicativo para proporcionar uma visão visual das funcionalidades e interface do usuário.
+>Home\
+![](imgs/home.png)
  
+>Meta\
+![](imgs/meta.png)
+
+>Atualização\
+![](imgs/atualiza.png)
+
+>Aderencia\
+![](imgs/aderencia.png)
+
+>Ranking\
+![](imgs/ranking.png)
